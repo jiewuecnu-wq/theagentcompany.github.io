@@ -2,19 +2,6 @@
     "number_of_tasks": 175,
     "rows": [
         {
-            "model": "IRIS-Agent + GPT-5.4",
-            "resolved": 46.29,
-            "score": 58.12,
-            "org": "https://github.com/user-attachments/assets/2a88e1e7-c765-4f2b-bede-0cd955b290d7",
-            "date": "2026-06-25",
-            "enviroment_model": "GPT-5.4",
-            "trajs": "✓",
-            "screenshot": "✗",
-            "site": "https://github.com/TheAgentCompany/experiments/tree/main/evaluation/1.0.0/20260625_IRIS-GraphAgent-gpt-5.4-2026-03-05",
-            "open_source": false,
-            "checked": false
-        },
-        {
             "model": "TTE-MatrixAgent + Deepseek-V3.2",
             "resolved": 42.86,
             "score": 52.40,
